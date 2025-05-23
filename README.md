@@ -32,23 +32,15 @@
 ###
 
 <div align="left">
-  <a href="SEU_LINK_YOUTUBE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="SEU_LINK_INSTAGRAM" target="_blank">
+
+  <a href="https://www.instagram.com/cordeiro.mp3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="SEU_LINK_TWITCH" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="SEU_LINK_DISCORD" target="_blank">
+  <a href="https://discord.com/users/Cordeiro.Mp3" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:cordeiro234311@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="SEU_LINK_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
