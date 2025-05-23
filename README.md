@@ -55,7 +55,6 @@ const cordeiro = {
   curiosidade: "Adoro explorar novas tecnologias e frameworks!",
   meta: "Tornar-me um desenvolvedor full-stack"
 };
-
+```
 📈 Minhas Contribuições
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Corder03&theme=github-compact&hide_border=true&locale=pt-br" alt="Gráfico de contribuições" /> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=Corder03&label=Visualizações%20do%20perfil&color=blue&style=flat&labelColor=black" alt="Contador de visualizações" /> </div>
-```
