@@ -32,11 +32,6 @@
 
 
 
-<!-- Substitua o src abaixo pelo link da sua foto ou gif -->
-<img align="right" height="150" src="https://i.imgur.com/rFrPDwn.gif"/>
-
-
-
 ###
 
 ## 🛠️ Minhas Habilidades
