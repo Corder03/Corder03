@@ -9,7 +9,7 @@
 ###
 
 <!-- Substitua o src abaixo pelo link da sua foto ou gif -->
-<img align="right" height="200" src="https://i.imgur.com/rFrPDwn.gif"/>
+<img align="right" height="200px" src="https://i.imgur.com/rFrPDwn.gif"/>
 
 ###
 
