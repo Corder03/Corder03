@@ -3,9 +3,57 @@
 
 ###
 
+<h2 align="left">Oi eu me chamo Cordeiro 👋</h2>
+
+###
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D6D7E&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Front-end;Aprendendo+constantemente;Tecnologia+é+minha+paixão" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Corder03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Corder03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<!-- Substitua o src abaixo pelo link da sua foto ou gif -->
+<img align="right" height="150" src="https://i.imgur.com/rFrPDwn.gif"/>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<div align="left">
+
+  <a href="https://www.instagram.com/cordeiro.mp3/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/Cordeiro.Mp3" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:cordeiro234311@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+
+###
+
 
 ###
 
@@ -21,7 +69,7 @@
 
 <div align="left">
   <h3>Front-end</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,styledcomponents" alt="Front-end skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,styledcomponents" alt="Front-end skills" />
   
   <h3>Back-end</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,python,express,mongodb" alt="Back-end skills" />
@@ -30,15 +78,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" alt="Tools" />
 </div>
 
-###
 
-## 🌱 Atualmente Aprendendo
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,aws" alt="Currently learning" />
-</div>
-
-###
 
 ## 📫 Como me encontrar
 
@@ -52,9 +92,6 @@
   <a href="mailto:cordeiro234311@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
-  </a>
 </div>
 
 ###
@@ -64,12 +101,10 @@
 ```javascript
 const cordeiro = {
   pronomes: "Ele/Dele",
-  área: "Desenvolvimento Front-end",
+  área: "Desenvolvimento Front-end & Back-end",
   tecnologias: ["JavaScript", "TypeScript", "React", "Node.js", "Python"],
   hobbies: ["Ouvir música", "Jogar videogame", "Aprender coisas novas"],
   curiosidade: "Adoro explorar novas tecnologias e frameworks!",
   meta: "Tornar-me um desenvolvedor full-stack"
 };
-
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=Corder03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> <a href="https://github.com/Corder03?tab=followers"> <img src="https://img.shields.io/github/followers/Corder03?label=Followers&style=social" alt="GitHub followers" /> </a> </div>
 ```
