@@ -41,7 +41,7 @@
 ## 📚 Atualmente Aprendendo
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,aws,react,nodejs" alt="Tecnologias que estou aprendendo" />
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,react,nodejs" alt="Tecnologias que estou aprendendo" />
 </div>
 
 ## 🎵 Sobre Mim
