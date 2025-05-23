@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Cordeiro! 👋</h1>
-<h3 align="center">Desenvolvedor Front-end | Entusiasta de JavaScript & React</h3>
+<h3 align="center">Desenvolvedor Front-end | React & python</h3>
 
 
 
