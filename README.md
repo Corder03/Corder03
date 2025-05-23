@@ -1,11 +1,11 @@
 <h1 align="center">Olá, eu sou o Cordeiro! 👋</h1>
 <h3 align="center">Desenvolvedor Front-end | Entusiasta de JavaScript & React</h3>
 
-<!-- GIF alinhado à direita -->
-<img align="right" height="150" src="https://i.imgur.com/rFrPDwn.gif" alt="Animação"/>
+
 
 ## 📊 Estatísticas do GitHub
-
+<!-- GIF alinhado à direita -->
+<img align="right" height="150" src="https://i.imgur.com/rFrPDwn.gif" alt="Animação"/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Corder03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=pt-br&hide_border=false" height="150" alt="Estatísticas" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Corder03&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="Linguagens mais usadas" />
@@ -30,7 +30,7 @@
 
 <div align="left">
   <h3>Front-end</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,styledcomponents" alt="Habilidades Front-end" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="Habilidades Front-end" />
   
   <h3>Back-end</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,python,express,mongodb" alt="Habilidades Back-end" />
