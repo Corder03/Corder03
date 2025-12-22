@@ -5,8 +5,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-
 <img src="https://raw.githubusercontent.com/Corder03/Corder03/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
