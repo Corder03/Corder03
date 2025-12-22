@@ -4,12 +4,17 @@
 
 
 ## 📊 Estatísticas do GitHub
-<!-- GIF alinhado à direita -->
-<img align="right" height="150" src="https://i.imgur.com/rFrPDwn.gif" alt="Animação"/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Corder03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=pt-br&hide_border=false" height="150" alt="Estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Corder03&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="Linguagens mais usadas" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Corder03/Corder03/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Corder03/Corder03/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Corder03/Corder03/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/Corder03/Corder03/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 📫 Como me encontrar
 
