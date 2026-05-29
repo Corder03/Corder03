@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Cordeiro! 👋</h1>
+
 <h3 align="center">Desenvolvedor Front-end | React & python</h3>
 
 
